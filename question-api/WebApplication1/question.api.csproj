@@ -15,4 +15,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\question.domain\question.domain.csproj" />
+    <ProjectReference Include="..\question.model\question.model.csproj" />
+    <ProjectReference Include="..\question.Service\question.service.csproj" />
+  </ItemGroup>
+
 </Project>

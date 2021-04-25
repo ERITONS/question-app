@@ -27,7 +27,10 @@
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10",
+          "question.domain": "1.0.0",
+          "question.model": "1.0.0",
+          "question.service": "1.0.0"
         },
         "runtime": {
           "question.api.dll": {}
@@ -512,6 +515,40 @@
           "System.Runtime.Extensions": "4.3.0",
           "System.Threading": "4.3.0",
           "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "question.domain/1.0.0": {
+        "runtime": {
+          "question.domain.dll": {}
+        },
+        "compile": {
+          "question.domain.dll": {}
+        }
+      },
+      "question.model/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
+          "question.domain": "1.0.0"
+        },
+        "runtime": {
+          "question.model.dll": {}
+        },
+        "compile": {
+          "question.model.dll": {}
+        }
+      },
+      "question.service/1.0.0": {
+        "dependencies": {
+          "question.domain": "1.0.0",
+          "question.model": "1.0.0"
+        },
+        "runtime": {
+          "question.service.dll": {}
+        },
+        "compile": {
+          "question.service.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3643,6 +3680,21 @@
       "sha512": "sha512-td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
       "path": "system.linq.parallel/4.3.0",
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
+    },
+    "question.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "question.model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "question.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

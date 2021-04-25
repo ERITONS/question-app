@@ -4615,6 +4615,46 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "question.domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/question.domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/question.domain.dll": {}
+        }
+      },
+      "question.model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.0",
+          "question.domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/question.model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/question.model.dll": {}
+        }
+      },
+      "question.service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "question.domain": "1.0.0",
+          "question.model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/question.service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/question.service.dll": {}
+        }
       }
     }
   },
@@ -12528,6 +12568,21 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "question.domain/1.0.0": {
+      "type": "project",
+      "path": "../question.domain/question.domain.csproj",
+      "msbuildProject": "../question.domain/question.domain.csproj"
+    },
+    "question.model/1.0.0": {
+      "type": "project",
+      "path": "../question.model/question.model.csproj",
+      "msbuildProject": "../question.model/question.model.csproj"
+    },
+    "question.service/1.0.0": {
+      "type": "project",
+      "path": "../question.Service/question.service.csproj",
+      "msbuildProject": "../question.Service/question.service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12535,7 +12590,10 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.10"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.10",
+      "question.domain >= 1.0.0",
+      "question.model >= 1.0.0",
+      "question.service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12567,7 +12625,17 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj": {
+              "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj"
+            },
+            "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj": {
+              "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj"
+            },
+            "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj": {
+              "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
