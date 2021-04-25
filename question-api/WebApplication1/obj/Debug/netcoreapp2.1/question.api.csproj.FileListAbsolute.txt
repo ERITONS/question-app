@@ -1,0 +1,14 @@
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\bin\Debug\netcoreapp2.1\question.api.deps.json
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\bin\Debug\netcoreapp2.1\question.api.runtimeconfig.json
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\bin\Debug\netcoreapp2.1\question.api.runtimeconfig.dev.json
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\bin\Debug\netcoreapp2.1\question.api.dll
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\bin\Debug\netcoreapp2.1\question.api.pdb
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.csprojAssemblyReference.cache
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.csproj.CoreCompileInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.RazorAssemblyInfo.cache
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.RazorAssemblyInfo.cs
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.AssemblyInfoInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.AssemblyInfo.cs
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.RazorTargetAssemblyInfo.cache
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.dll
+C:\Users\erito\Source\Repos\question-app\question-api\WebApplication1\obj\Debug\netcoreapp2.1\question.api.pdb
