@@ -40,11 +40,16 @@ namespace question.api
                     sqlOptions.EnableRetryOnFailure();
                 });
             });
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+           
 
             services.AddAutoMapper(typeof(Startup));
 
-        }
+            services.AddMvc(options => 
+            {}).AddJsonOptions(x=>
+                x.SerializerSettings.ReferenceLoopHandling = 
+                Newtonsoft.Json.ReferenceLoopHandling.Ignore
+              ).SetCompatibilityVersion(CompatibilityVersion.Version_2_1); 
+    }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
