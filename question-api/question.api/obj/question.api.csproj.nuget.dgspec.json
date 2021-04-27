@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.api\\question.api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.api\\question.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.api\\question.api.csproj",
+        "projectName": "question.api",
+        "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.api\\question.api.csproj",
+        "packagesPath": "C:\\Users\\erito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj": {
+                "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj"
+              },
+              "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj": {
+                "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj"
+              },
+              "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj": {
+                "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj",
+        "projectName": "question.domain",
+        "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj",
+        "packagesPath": "C:\\Users\\erito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj",
+        "projectName": "question.model",
+        "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj",
+        "packagesPath": "C:\\Users\\erito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj": {
+                "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj",
+        "projectName": "question.service",
+        "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\question.service.csproj",
+        "packagesPath": "C:\\Users\\erito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj": {
+                "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.domain\\question.domain.csproj"
+              },
+              "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj": {
+                "projectPath": "C:\\Users\\erito\\Source\\Repos\\question-app\\question-api\\question.model\\question.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
