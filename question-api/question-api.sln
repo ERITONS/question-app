@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "question.api", "WebApplication1\question.api.csproj", "{3F4C768C-55B4-4097-887D-946E4491FD73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "question.api", "question.api\question.api.csproj", "{3F4C768C-55B4-4097-887D-946E4491FD73}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "question.service", "question.Service\question.service.csproj", "{CBEEBE6C-63A4-4EE2-A188-29FCBDB8D7F2}"
 EndProject
