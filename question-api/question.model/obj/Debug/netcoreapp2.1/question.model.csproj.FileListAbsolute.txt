@@ -1,0 +1,14 @@
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.model.deps.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.model.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.csprojAssemblyReference.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.csproj.CoreCompileInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.AssemblyInfoInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.AssemblyInfo.cs
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.domain.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.model.runtimeconfig.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.model.runtimeconfig.dev.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.model.pdb
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\bin\Debug\netcoreapp2.1\question.domain.pdb
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.csproj.CopyComplete
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.model\obj\Debug\netcoreapp2.1\question.model.pdb

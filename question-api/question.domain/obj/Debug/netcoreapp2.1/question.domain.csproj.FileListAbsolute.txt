@@ -1,0 +1,9 @@
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\bin\Debug\netcoreapp2.1\question.domain.deps.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\bin\Debug\netcoreapp2.1\question.domain.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\bin\Debug\netcoreapp2.1\question.domain.pdb
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\obj\Debug\netcoreapp2.1\question.domain.csprojAssemblyReference.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\obj\Debug\netcoreapp2.1\question.domain.csproj.CoreCompileInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\obj\Debug\netcoreapp2.1\question.domain.AssemblyInfoInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\obj\Debug\netcoreapp2.1\question.domain.AssemblyInfo.cs
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\obj\Debug\netcoreapp2.1\question.domain.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.domain\obj\Debug\netcoreapp2.1\question.domain.pdb

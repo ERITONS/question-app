@@ -1,0 +1,14 @@
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\question.tests.deps.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\question.tests.runtimeconfig.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\question.tests.runtimeconfig.dev.json
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\question.tests.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\bin\Debug\netcoreapp2.1\question.tests.pdb
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\obj\Debug\netcoreapp2.1\question.tests.csprojAssemblyReference.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\obj\Debug\netcoreapp2.1\question.tests.csproj.CoreCompileInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\obj\Debug\netcoreapp2.1\question.tests.AssemblyInfoInputs.cache
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\obj\Debug\netcoreapp2.1\question.tests.AssemblyInfo.cs
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\obj\Debug\netcoreapp2.1\question.tests.dll
+C:\Users\erito\Source\Repos\question-app\question-api\question.tests\obj\Debug\netcoreapp2.1\question.tests.pdb
